@@ -1,0 +1,14 @@
+{
+  "name": "smart-hostel-platform",
+  "version": "1.0.0",
+  "description": "Smart Hostel and Boarding Management Platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint .",
+    "start": "node index.js"
+  },
+  "keywords": ["hostel", "boarding", "management"],
+  "author": "Ravi",
+  "license": "MIT"
+}
