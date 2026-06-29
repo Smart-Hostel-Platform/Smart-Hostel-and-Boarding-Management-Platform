@@ -13,44 +13,43 @@ This platform digitizes core hostel administration activities including:
 
 ## Architecture & Design Principles
 
-- **Architecture:** Hexagonal Architecture / Clean Architecture
-- **Design Patterns:** Domain Driven Design (DDD)
-- **Principles:** SOLID Principles
-- **Design Pattern:** MVC / MVVM
-- **Key Concepts:** Inversion of Control (IoC), Dependency Injection (DI)
+- Architecture: Hexagonal Architecture / Clean Architecture
+- Design Patterns: Domain Driven Design (DDD)
+- Principles: SOLID Principles
+- Design Pattern: MVC / MVVM
+- Key Concepts: Inversion of Control (IoC), Dependency Injection (DI)
 
 ## Tech Stack
 
 ### Backend
-- **Framework:** NestJS
-- **Language:** TypeScript
-- **Database:** PostgreSQL
-- **ORM:** TypeORM / Prisma
+- Framework: NestJS
+- Language: TypeScript
+- Database: PostgreSQL
+- ORM: TypeORM / Prisma
 
 ### Frontend (Web)
-- **Framework:** Next.js
-- **Language:** TypeScript
-- **Styling:** Tailwind CSS
-- **State Management:** Zustand
+- Framework: Next.js
+- Language: TypeScript
+- Styling: Tailwind CSS
+- State Management: Zustand
 
 ### Mobile
-- **Framework:** Flutter
-- **State Management:** Bloc (intermediate) / GetX (easy)
+- Framework: Flutter
+- State Management: Bloc (intermediate) / GetX (easy)
 
 ### Cloud & DevOps
-- **Cloud Platform:** Google Cloud Platform (GCP)
-- **Container Orchestration:** Kubernetes
-- **Local Development:** Skaffold
-- **Package Management:** Helm
-- **CI/CD:** GitHub Actions
+- Cloud Platform: Google Cloud Platform (GCP)
+- Container Orchestration: Kubernetes
+- Local Development: Skaffold
+- Package Management: Helm
+- CI/CD: GitHub Actions
 
 ## Team
 
-| Role | Name | Responsibilities |
-|------|------|------------------|
-| 🚀 **DevOps & Infrastructure** | Ravi | GitHub, GCP, CI/CD, Kubernetes, Helm |
-| 🎨 **Frontend Engineering** | Safrina | Next.js, React, Tailwind, Figma Wireframes |
-| ⚙️ **Backend Engineering** | Ishakya | NestJS, TypeScript, API Design, Microservices |
+Frontend Engineering - Safrina | Next.js, React, Tailwind, Figma Wireframes 
+Backend Engineering - Ishakya | NestJS, TypeScript, API Design, Microservices 
+DevOps & Infrastructure - Ravi | GitHub, GCP, CI/CD, Kubernetes, Helm
+
 
 ## Getting Started
 
