@@ -47,7 +47,9 @@ This platform digitizes core hostel administration activities including:
 ## Team
 
 Frontend Engineering - Safrina | Next.js, React, Tailwind, Figma Wireframes 
+
 Backend Engineering - Ishakya | NestJS, TypeScript, API Design, Microservices 
+
 DevOps & Infrastructure - Ravi | GitHub, GCP, CI/CD, Kubernetes, Helm
 
 
